@@ -1,5 +1,5 @@
 ### Hi there 👋🏻 
-I am currently working as a Software Development and Machine Learning expert at [**Fiverr**](https://www.fiverr.com/mrproblem_solve/). I come with an experience of working with different technologies including Web Development, Machine Learning, Deep Learning and Data Science related tasks.
+I am currently working as a Software Developer and Machine Learning expert at [**Fiverr**](https://www.fiverr.com/mrproblem_solve/). I come with an experience of working with different technologies including Web Development, Machine Learning, Deep Learning and Data Science related tasks.
 
 ### Things I'm good at :fire:
 
